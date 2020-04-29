@@ -16,7 +16,7 @@ but rofi is highly recommended because of xft supported out of the box 🤖
 Because I love emoji, and I think most people do too ! 😆
 
 ## Installation 📁
-Just clone repo to anywhere your choice (but ~/emoji-dmenu is recommended which preconfigured with and easily to get started)
+Just clone repo to anywhere your choice (but ~/emoji-dmenu is highly recommended which preconfigured to help you get started)
 
 git clone https://github.com/littleboycoding/emoji-dmenu.git ~/emoji-dmenu
 
