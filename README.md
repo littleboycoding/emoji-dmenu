@@ -7,6 +7,8 @@ but rofi is highly recommended because of xft supported out of the box 🤖
 **Dependencies**  
 - dmenu (xft patched) or rofi  
 - curl  
+- xdotool
+- xclip
 - jq (which are already included in repo)  
 - any notification daemon (optional but recommended)  
 
