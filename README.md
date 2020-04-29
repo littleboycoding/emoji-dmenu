@@ -2,12 +2,13 @@
 💻 Select emoji via dmenu or rofi easily, 🚧 with automatic update which provided by https://emoji-api.com/ ❤️
 
 You can choose either xft patched dmenu or rofi  
-but rofi is highly recommended because of xft supported out of the box 🤖)  
+but rofi is highly recommended because of xft supported out of the box 🤖  
 
 **Dependencies**  
 - dmenu (xft patched) or rofi  
-- any notification daemon (I personally use dunst)  
+- curl  
 - jq (which are already included in repo)  
+- any notification daemon (optional but recommended)  
 
 ## Why ❓
 Because I love emoji, and I think most people do too ! 😆
